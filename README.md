@@ -37,14 +37,15 @@
 ### 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github.com/hemrajmeena073/ResumeBuilder/?username=hemrajmeena073&layout=compact&theme=radical&hide_border=true" height="165"/>
-  
-  <img src="https://github.com/hemrajmeena073/weblink?username=hemrajmeena073&show_icons=true&theme=radical&hide_border=true" height="165"/>
- 
-  <img src=" https://github.com/hemrajmeena073/SPAM-CLASSIFIER/?username=hemrajmeena073&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github.com/hemrajmeena073/SPAM-CLASSIFIER?username=hemrajmeena073&show_icons=true&theme=dark" />
+  <br/>
+  <img src="https://github.com/hemrajmeena073/ResumeBuilder?username=hemrajmeena073&theme=dark" />
+  <br/>
+  <img src="https://github.com/hemrajmeena073/Cartoonifyimsges?username=hemrajmeena073&layout=compact&theme=dark" />
 </p>
 
 ---
+
 
 ### 🔥 Featured Projects
 
