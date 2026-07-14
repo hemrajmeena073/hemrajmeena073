@@ -36,26 +36,70 @@
 
 ### 📊 GitHub Dashboard
 
-<p align="center">
-  <img src="https://github.com/hemrajmeena073/SPAM-CLASSIFIER?username=hemrajmeena073&show_icons=true&theme=dark" />
-  <br/>
-  <img src="https://github.com/hemrajmeena073/ResumeBuilder?username=hemrajmeena073&theme=dark" />
-  <br/>
-  <img src="https://github.com/hemrajmeena073/Cartoonifyimsges?username=hemrajmeena073&layout=compact&theme=dark" />
-</p>
 
----
-
-
-### 🔥 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/hemrajmeena073/ResumeBuilder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemrajmeena073&repo=ResumeBuilder&theme=radical&hide_border=true"/>
-  </a>
-  <a href="https://github.com/hemrajmeena073/weblink">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemrajmeena073&repo=weblink&theme=radical&hide_border=true"/>
-  </a>
+  <img
+    src="https://streak-stats.demolab.com?user=hemrajmeena073&theme=radical&hide_border=true"
+    height="180"
+  />
 </p>
 
----
+
+
+
+## 🔥 Featured Projects
+
+<table align="center">
+<tr>
+<td width="50%" align="center">
+
+### 📄 Resume Builder
+
+<a href="https://github.com/hemrajmeena073/ResumeBuilder">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemrajmeena073&repo=ResumeBuilder&theme=radical&hide_border=true"/>
+</a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemrajmeena073&repo=ResumeBuilder&layout=compact&theme=radical&hide_border=true"/>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🌐 WebLink
+
+<a href="https://github.com/hemrajmeena073/weblink">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemrajmeena073&repo=weblink&theme=radical&hide_border=true"/>
+</a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemrajmeena073&repo=weblink&layout=compact&theme=radical&hide_border=true"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+### 📧 Spam Classifier
+
+<a href="https://github.com/hemrajmeena073/SPAM-CLASSIFIER">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemrajmeena073&repo=SPAM-CLASSIFIER&theme=radical&hide_border=true"/>
+</a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemrajmeena073&repo=SPAM-CLASSIFIER&layout=compact&theme=radical&hide_border=true"/>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🎨 Cartoonify Images
+
+<a href="https://github.com/hemrajmeena073/Cartoonifyimsges">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemrajmeena073&repo=Cartoonifyimsges&theme=radical&hide_border=true"/>
+</a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemrajmeena073&repo=Cartoonifyimsges&layout=compact&theme=radical&hide_border=true"/>
+
+</td>
+</tr>
+</table>
