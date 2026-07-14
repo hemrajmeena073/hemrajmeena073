@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=F75C7E&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+JavaScript+%7C+Node.js;Python+%7C+MongoDB;Building+Modern+Web+Apps+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=1E3A8A&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+JavaScript+%7C+Node.js;Python+%7C+MongoDB;Building+Modern+Web+Apps+🚀" />
 </p>
 
 ---
@@ -51,22 +51,26 @@
 ## 🔥 Featured Projects
 
 <table>
+
 <tr>
 
 <td align="center" width="50%">
 
-### 📄 Resume Builder
+### 📄 <a href="https://github.com/hemrajmeena073/ResumeBuilder">Resume Builder</a>
 
 <a href="https://github.com/hemrajmeena073/ResumeBuilder">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemrajmeena073&repo=ResumeBuilder&theme=radical&hide_border=true" />
+</a>
 
 </td>
 
 <td align="center" width="50%">
 
-### 🌐 WebLink
+### 🌐 <a href="https://github.com/hemrajmeena073/weblink">WebLink</a>
 
 <a href="https://github.com/hemrajmeena073/weblink">
-
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemrajmeena073&repo=weblink&theme=radical&hide_border=true" />
+</a>
 
 </td>
 
@@ -74,23 +78,50 @@
 
 <tr>
 
-<td align="center">
+<td align="center" width="50%">
 
-### 📧 Spam Classifier
+### 📧 <a href="https://github.com/hemrajmeena073/SPAM-CLASSIFIER">Spam Classifier</a>
 
 <a href="https://github.com/hemrajmeena073/SPAM-CLASSIFIER">
-
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemrajmeena073&repo=SPAM-CLASSIFIER&theme=radical&hide_border=true" />
+</a>
 
 </td>
 
-<td align="center">
+<td align="center" width="50%">
 
-### 🎨 Cartoonify Images
+### 🎨 <a href="https://github.com/hemrajmeena073/Cartoonifyimsges">Cartoonify Images</a>
 
 <a href="https://github.com/hemrajmeena073/Cartoonifyimsges">
-
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemrajmeena073&repo=Cartoonifyimsges&theme=radical&hide_border=true" />
+</a>
 
 </td>
 
 </tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+### 📡 <a href="https://github.com/hemrajmeena073/RadarEXPO">RadarEXPO</a>
+
+<a href="https://github.com/hemrajmeena073/RadarEXPO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemrajmeena073&repo=RadarEXPO&theme=radical&hide_border=true" />
+</a>
+
+</td>
+
+<td align="center" width="50%">
+
+### 🧮 <a href="https://github.com/hemrajmeena073/CALCULATOR">Calculator</a>
+
+<a href="https://github.com/hemrajmeena073/CALCULATOR">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemrajmeena073&repo=CALCULATOR&theme=radical&hide_border=true" />
+</a>
+
+</td>
+
+</tr>
+
 </table>
