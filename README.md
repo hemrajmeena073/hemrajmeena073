@@ -58,12 +58,6 @@
 ### 📄 Resume Builder
 
 <a href="https://github.com/hemrajmeena073/ResumeBuilder">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemrajmeena073&repo=ResumeBuilder&theme=radical&hide_border=true"/>
-</a>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemrajmeena073&repo=ResumeBuilder&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
 
 </td>
 
@@ -72,12 +66,7 @@
 ### 🌐 WebLink
 
 <a href="https://github.com/hemrajmeena073/weblink">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemrajmeena073&repo=weblink&theme=radical&hide_border=true"/>
-</a>
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemrajmeena073&repo=weblink&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
 
 </td>
 
@@ -90,12 +79,7 @@
 ### 📧 Spam Classifier
 
 <a href="https://github.com/hemrajmeena073/SPAM-CLASSIFIER">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemrajmeena073&repo=SPAM-CLASSIFIER&theme=radical&hide_border=true"/>
-</a>
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemrajmeena073&repo=SPAM-CLASSIFIER&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
 
 </td>
 
@@ -104,12 +88,7 @@
 ### 🎨 Cartoonify Images
 
 <a href="https://github.com/hemrajmeena073/Cartoonifyimsges">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemrajmeena073&repo=Cartoonifyimsges&theme=radical&hide_border=true"/>
-</a>
 
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemrajmeena073&repo=Cartoonifyimsges&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
 
 </td>
 
