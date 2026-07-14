@@ -50,9 +50,10 @@
 
 ## 🔥 Featured Projects
 
-<table align="center">
+<table>
 <tr>
-<td width="50%" align="center">
+
+<td align="center" width="50%">
 
 ### 📄 Resume Builder
 
@@ -60,11 +61,13 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemrajmeena073&repo=ResumeBuilder&theme=radical&hide_border=true"/>
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemrajmeena073&repo=ResumeBuilder&layout=compact&theme=radical&hide_border=true"/>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemrajmeena073&repo=ResumeBuilder&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
 
 </td>
 
-<td width="50%" align="center">
+<td align="center" width="50%">
 
 ### 🌐 WebLink
 
@@ -72,13 +75,17 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemrajmeena073&repo=weblink&theme=radical&hide_border=true"/>
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemrajmeena073&repo=weblink&layout=compact&theme=radical&hide_border=true"/>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemrajmeena073&repo=weblink&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%" align="center">
+
+<td align="center">
 
 ### 📧 Spam Classifier
 
@@ -86,11 +93,13 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemrajmeena073&repo=SPAM-CLASSIFIER&theme=radical&hide_border=true"/>
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemrajmeena073&repo=SPAM-CLASSIFIER&layout=compact&theme=radical&hide_border=true"/>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemrajmeena073&repo=SPAM-CLASSIFIER&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
 
 </td>
 
-<td width="50%" align="center">
+<td align="center">
 
 ### 🎨 Cartoonify Images
 
@@ -98,8 +107,11 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemrajmeena073&repo=Cartoonifyimsges&theme=radical&hide_border=true"/>
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemrajmeena073&repo=Cartoonifyimsges&layout=compact&theme=radical&hide_border=true"/>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemrajmeena073&repo=Cartoonifyimsges&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
 
 </td>
+
 </tr>
 </table>
