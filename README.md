@@ -128,3 +128,6 @@
 </tr>
 
 </table>
+<p align="center">
+  ⭐️ <b>Thanks for visiting! If you like my work, consider giving a star to my repos</b> ⭐️
+</p>
