@@ -1,4 +1,7 @@
 <h1 align="center">👋, I'm HEMRAJ MEENA</h1>
+
+<h4 align="center">🎓 Information Technology | NIT Srinagar | </h4>
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="center">
