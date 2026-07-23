@@ -2,10 +2,10 @@
 
 <h4 align="center">🎓 Information Technology | NIT Srinagar | </h4>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full-Stack Web developer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=1E3A8A&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+JavaScript+%7C+Node.js;Python+%7C+MongoDB;Building+Modern+Web+Apps+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=1E3A8A&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+JavaScript+%7C+Node.js;Python+%7C+MongoDB;Building+Modern+Web+Apps+🚀" />
 </p>
 
 ---
