@@ -59,6 +59,12 @@
 </td>
 
 <td align="center" width="50%">
+### 🏓 <a href="https://github.com/hemrajmeena073/pingpong-ranking">Ping Pong Ranking</a>
+<a href="https://github.com/hemrajmeena073/pingpong-ranking">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hemrajmeena073&repo=pingpong-ranking&theme=radical&hide_border=true" />
+</a>
+</td>
+<td align="center" width="50%">
 
 ### 🌐 <a href="https://github.com/hemrajmeena073/weblink">WebLink</a>
 
