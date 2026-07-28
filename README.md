@@ -51,11 +51,103 @@
 # 💻 Tech Stack
 
 <p align="center">
+<table>
+<tr>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,nextjs,nodejs,express,mongodb,mysql,firebase,tailwind,git,github,postman,vscode,vercel,render" />
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=c" width="48" height="48"/><br>C
+</td>
 
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48"/><br>C++
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48"/><br>Python
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48"/><br>HTML5
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48"/><br>CSS3
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48"/><br>JavaScript
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48"/><br>React
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48"/><br>Next.js
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/><br>Node.js
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48"/><br>Express
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"/><br>MongoDB
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/><br>MySQL
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48"/><br>Firebase
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/><br>Tailwind
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48"/><br>Git
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48"/><br>GitHub
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48"/><br>Postman
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48"/><br>Vercel
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/><br>VS Code
+</td>
+
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=render" width="48" height="48"/><br>Render
+</td>
+
+<td></td>
+
+</tr>
+</table>
 </p>
-
 ---
 
 # 📊 GitHub Stats:
