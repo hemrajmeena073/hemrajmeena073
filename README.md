@@ -2,7 +2,7 @@
 
 <h3 align="center">
 🎓 Information Technology Undergraduate at NIT Srinagar <br>
-💻 Full Stack Web Developer | MERN Stack Enthusiast | Problem Solver
+💻 Full-Stack Web Developer | MERN Stack Enthusiast | Problem Solver
 </h3>
 
 <p align="center">
@@ -41,9 +41,6 @@
 <a href="https://www.linkedin.com/in/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
-
-
-
 </p>
 
 ---
@@ -89,7 +86,6 @@
 </tr>
 
 <tr>
-
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/><br>Node.js
 </td>
@@ -142,8 +138,6 @@
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=render" width="48" height="48"/><br>Render
 </td>
-
-<td></td>
 
 </tr>
 </table>
