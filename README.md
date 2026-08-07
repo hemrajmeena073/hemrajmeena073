@@ -47,109 +47,45 @@
 
 # 💻 Tech Stack
 
-<p align="center">
-<table>
-<tr>
+### Languages
 
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=c" width="48" height="48"/><br>C
-</td>
+![C](https://skillicons.dev/icons?i=c)
+![CPP](https://skillicons.dev/icons?i=cpp)
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
 
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48"/><br>C++
-</td>
+### Frontend
 
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=python" width="48" height="48"/><br>Python
-</td>
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![React](https://skillicons.dev/icons?i=react)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Redux](https://skillicons.dev/icons?i=redux)
 
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48"/><br>HTML5
-</td>
+### Backend
 
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48"/><br>CSS3
-</td>
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48"/><br>JavaScript
-</td>
+### Tools
 
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48"/><br>React
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48"/><br>Next.js
-</td>
-
-</tr>
-
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/><br>Node.js
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=express" width="48" height="48"/><br>Express
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"/><br>MongoDB
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/><br>MySQL
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48"/><br>Firebase
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/><br>Tailwind
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48"/><br>Git
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48"/><br>GitHub
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postman" width="48" height="48"/><br>Postman
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48"/><br>Vercel
-</td>
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/><br>VS Code
-</td>
-
-
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=render" width="48" height="48"/><br>Render
-</td>
-
-</tr>
-</table>
-</p>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=hemrajmeena073&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=hemrajmeena073&theme=transparent&hide_border=false)<br/> 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hemrajmeena073&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+![Render](https://go-skill-icons.vercel.app/api/icons?i=render)
 ---
 
-# 📈 Contribution Graph
+# 📊 GitHub Stats:
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=hemrajmeena073&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+</p>
+
+# 📈 Contribution Graph:
 
 <p align="center">
 
