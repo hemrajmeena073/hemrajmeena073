@@ -78,7 +78,11 @@
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 ![Render](https://go-skill-icons.vercel.app/api/icons?i=render)
 ---
+# 📊 GitHub Stats:
 
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=hemrajmeena073&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
+</p>
 
 
 # 📈 Contribution Graph:
