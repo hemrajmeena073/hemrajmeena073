@@ -1,7 +1,7 @@
 # 👋 Hi, I'm HEMRAJ MEENA
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=1565C0&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+JavaScript+%7C+Node.js;MERN+Stack+Developer;DSA+%7C+Problem+Solving;Building+Modern+Web+Apps+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=1565C0&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+JavaScript+%7C+Node.js;DSA+%7C+Problem+Solving;Building+Modern+Web+Apps+🚀" />
 </p>
 
 <p align="center">
