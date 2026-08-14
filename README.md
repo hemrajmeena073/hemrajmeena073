@@ -8,6 +8,7 @@
   <a href="https://github.com/hemrajmeena073">
     <img src="https://komarev.com/ghpvc/?username=hemrajmeena073&label=Profile%20Views&color=1565C0&style=flat" />
   </a>
+
   <a href="https://github.com/hemrajmeena073?tab=followers">
     <img src="https://img.shields.io/github/followers/hemrajmeena073?label=Followers&style=flat&color=1565C0" />
   </a>
@@ -51,9 +52,7 @@
 ### 👨‍💻 Languages
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,sql" />
-
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,sql" />
 </p>
 
 ---
@@ -61,9 +60,7 @@
 ### 🎨 Frontend
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,redux" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,redux" />
 </p>
 
 ---
@@ -71,9 +68,7 @@
 ### ⚙️ Backend
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
 ---
@@ -81,22 +76,19 @@
 ### 🛠️ Tools
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" />
-
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,render" />
 </p>
 
 ---
-
-
-
-
 
 # 🔥 GitHub Streak
 
 <p align="center">
   <a href="https://github.com/hemrajmeena073">
-    <img src="https://streak-stats.demolab.com?user=hemrajmeena073&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img
+      src="https://streak-stats.demolab.com?user=hemrajmeena073&theme=tokyonight&hide_border=true"
+      alt="Hemraj Meena GitHub Streak"
+    />
   </a>
 </p>
 
@@ -106,10 +98,19 @@
 
 <p align="center">
   <a href="https://github.com/hemrajmeena073">
-    <img src="https://github-stats-extended.vercel.app/api?username=hemrajmeena073&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=hemrajmeena073&show_icons=true&theme=tokyonight&hide_border=true"
+      height="180"
+      alt="Hemraj Meena GitHub Stats"
+    />
   </a>
+
   <a href="https://github.com/hemrajmeena073">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=hemrajmeena073&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=hemrajmeena073&layout=compact&theme=tokyonight&hide_border=true"
+      height="180"
+      alt="Hemraj Meena Top Languages"
+    />
   </a>
 </p>
 
@@ -118,13 +119,21 @@
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemrajmeena073&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=hemrajmeena073&theme=tokyo-night&hide_border=true"
+    alt="Hemraj Meena Contribution Graph"
+  />
 </p>
+
+---
+
 
 
 # 🚀 Featured Projects
 
 ### 🌐 Portfolio
+
+Personal GitHub profile and developer portfolio.
 
 🔗 **GitHub:**  
 https://github.com/hemrajmeena073
@@ -136,6 +145,7 @@ https://github.com/hemrajmeena073
 A full-stack resume builder built using the **MERN stack** with AI-powered features using the **Google Gemini API**.
 
 **Features:**
+
 - 📝 Multiple resume templates
 - 🤖 AI-assisted content generation
 - 📊 ATS Score Checker
@@ -171,6 +181,7 @@ https://github.com/hemrajmeena073/weblink
 A machine learning project that classifies messages as **Spam or Ham** using NLP and Machine Learning.
 
 **Technologies:**
+
 - Python
 - Scikit-learn
 - NLTK
@@ -223,11 +234,17 @@ https://github.com/hemrajmeena073/CALCULATOR
 
 ---
 
-# ✍️ Random Dev Quote
+# 📚 Currently Learning
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://img.shields.io/badge/System%20Design-1565C0?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+
+<img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/MERN-47A248?style=for-the-badge" />
 
 </p>
 
@@ -241,6 +258,17 @@ https://github.com/hemrajmeena073/CALCULATOR
 - 📚 Solve more DSA problems
 - 🤝 Contribute to Open Source
 - 💼 Prepare for Software Engineering roles
+
+---
+
+# ✍️ Random Dev Quote
+
+<p align="center">
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+    alt="Random Dev Quote"
+  />
+</p>
 
 ---
 
@@ -259,5 +287,8 @@ If you like my projects, consider giving them a ⭐ on GitHub!
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1565C0&height=100&section=footer" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=1565C0&height=100&section=footer"
+    alt="Footer"
+  />
 </p>
