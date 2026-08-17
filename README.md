@@ -18,12 +18,12 @@
 
 # 💫 About Me
 
-- 🎓 B.Tech Information Technology @ **NIT Srinagar**
-- 🌱 Currently learning **System Design & Next.js**
-- 💻 Passionate about **Full Stack Development**
-- 📚 Solving **DSA Problems** regularly
-- 🚀 Building scalable **MERN applications**
-- ⚡ Fun Fact: I enjoy building useful projects more than watching tutorials.
+* 🎓 B.Tech Information Technology @ **NIT Srinagar**
+* 🌱 Currently learning **System Design & Next.js**
+* 💻 Passionate about **Full Stack Development**
+* 📚 Solving **DSA Problems** regularly
+* 🚀 Building scalable **MERN applications**
+* ⚡ Fun Fact: I enjoy building useful projects more than watching tutorials.
 
 ---
 
@@ -86,7 +86,8 @@
 <p align="center">
   <a href="https://github.com/hemrajmeena073">
     <img
-      src="https://streak-stats.demolab.com?user=hemrajmeena073&theme=tokyonight&hide_border=true"
+      src="./profile/streak.svg"
+      width="700"
       alt="Hemraj Meena GitHub Streak"
     />
   </a>
@@ -99,7 +100,7 @@
 <p align="center">
   <a href="https://github.com/hemrajmeena073">
     <img
-      src="https://github-stats-extended.vercel.app/api?username=hemrajmeena073&show_icons=true&theme=tokyonight&hide_border=true"
+      src="./profile/stats.svg"
       height="180"
       alt="Hemraj Meena GitHub Stats"
     />
@@ -107,7 +108,7 @@
 
   <a href="https://github.com/hemrajmeena073">
     <img
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=hemrajmeena073&layout=compact&theme=tokyonight&hide_border=true"
+      src="./profile/top-langs.svg"
       height="180"
       alt="Hemraj Meena Top Languages"
     />
@@ -120,14 +121,13 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=hemrajmeena073&theme=tokyo-night&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=hemrajmeena073&theme=tokyo-night&hide_border=true&area=true&radius=10&days=31"
+    width="95%"
     alt="Hemraj Meena Contribution Graph"
   />
 </p>
 
 ---
-
-
 
 # 🚀 Featured Projects
 
@@ -135,7 +135,7 @@
 
 Personal GitHub profile and developer portfolio.
 
-🔗 **GitHub:**  
+🔗 **GitHub:**
 https://github.com/hemrajmeena073
 
 ---
@@ -146,14 +146,25 @@ A full-stack resume builder built using the **MERN stack** with AI-powered featu
 
 **Features:**
 
-- 📝 Multiple resume templates
-- 🤖 AI-assisted content generation
-- 📊 ATS Score Checker
-- 👀 Live resume preview
-- 📥 Download resume as PDF
-- ☁️ Cloud-based resume management
+* 📝 Multiple resume templates
+* 🤖 AI-assisted content generation
+* 📊 ATS Score Checker
+* 👀 Live resume preview
+* 📥 Download resume as PDF
+* ☁️ Cloud-based resume management
 
-🔗 **Repository:**  
+**Technologies:**
+
+* React.js
+* Tailwind CSS
+* Redux
+* Framer Motion
+* Node.js
+* Express.js
+* MongoDB
+* Google Gemini API
+
+🔗 **Repository:**
 https://github.com/hemrajmeena073/ResumeBuilder
 
 ---
@@ -162,7 +173,7 @@ https://github.com/hemrajmeena073/ResumeBuilder
 
 A web application for managing and tracking **Ping Pong rankings and player performance**.
 
-🔗 **Repository:**  
+🔗 **Repository:**
 https://github.com/hemrajmeena073
 
 ---
@@ -171,7 +182,7 @@ https://github.com/hemrajmeena073
 
 A web-based project focused on creating and managing useful web links.
 
-🔗 **Repository:**  
+🔗 **Repository:**
 https://github.com/hemrajmeena073/weblink
 
 ---
@@ -182,13 +193,13 @@ A machine learning project that classifies messages as **Spam or Ham** using NLP
 
 **Technologies:**
 
-- Python
-- Scikit-learn
-- NLTK
-- TF-IDF
-- Multinomial Naive Bayes
+* Python
+* Scikit-learn
+* NLTK
+* TF-IDF
+* Multinomial Naive Bayes
 
-🔗 **Repository:**  
+🔗 **Repository:**
 https://github.com/hemrajmeena073
 
 ---
@@ -197,7 +208,14 @@ https://github.com/hemrajmeena073
 
 An image-processing project that converts normal images into a **cartoon-style effect**.
 
-🔗 **Repository:**  
+**Technologies:**
+
+* Python
+* OpenCV
+* NumPy
+* Image Processing
+
+🔗 **Repository:**
 https://github.com/hemrajmeena073
 
 ---
@@ -206,7 +224,7 @@ https://github.com/hemrajmeena073
 
 A project based on radar-related visualization and functionality.
 
-🔗 **Repository:**  
+🔗 **Repository:**
 https://github.com/hemrajmeena073/RadarEXPO
 
 ---
@@ -215,7 +233,7 @@ https://github.com/hemrajmeena073/RadarEXPO
 
 A simple and responsive calculator application.
 
-🔗 **Repository:**  
+🔗 **Repository:**
 https://github.com/hemrajmeena073/CALCULATOR
 
 ---
@@ -252,12 +270,12 @@ https://github.com/hemrajmeena073/CALCULATOR
 
 # 🎯 2026 Goals
 
-- 🚀 Build scalable full-stack applications
-- 🧠 Improve System Design skills
-- ⚡ Master Next.js
-- 📚 Solve more DSA problems
-- 🤝 Contribute to Open Source
-- 💼 Prepare for Software Engineering roles
+* 🚀 Build scalable full-stack applications
+* 🧠 Improve System Design skills
+* ⚡ Master Next.js
+* 📚 Solve more DSA problems
+* 🤝 Contribute to Open Source
+* 💼 Prepare for Software Engineering roles
 
 ---
 
