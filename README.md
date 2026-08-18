@@ -124,7 +124,7 @@
     src="https://github-readme-activity-graph.vercel.app/graph?username=hemrajmeena073&theme=tokyo-night&hide_border=true&area=true&radius=10&days=31"
     width="95%"
     alt="Hemraj Meena Contribution Graph"
-  />
+  /> 
 </p>
 
 ---
