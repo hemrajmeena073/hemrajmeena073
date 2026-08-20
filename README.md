@@ -86,7 +86,7 @@
 <p align="center">
   <a href="https://github.com/hemrajmeena073">
     <img
-      src="./profile/streak.svg"
+      src="https://streak-stats.demolab.com/?user=hemrajmeena073&theme=tokyonight&hide_border=true"
       width="700"
       alt="Hemraj Meena GitHub Streak"
     />
