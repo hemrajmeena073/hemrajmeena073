@@ -86,7 +86,7 @@
 <p align="center">
   <a href="https://github.com/hemrajmeena073">
     <img
-      src="https://streak-stats.demolab.com/?user=hemrajmeena073&theme=tokyonight&hide_border=true"
+      src="https://github-readme-streak-stats-eight.vercel.app/?user=hemrajmeena073&theme=tokyonight&hide_border=true"
       width="700"
       alt="Hemraj Meena GitHub Streak"
     />
@@ -100,7 +100,7 @@
 <p align="center">
   <a href="https://github.com/hemrajmeena073">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=hemrajmeena073&show_icons=true&theme=tokyonight&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api?username=hemrajmeena073&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600"
       height="180"
       alt="Hemraj Meena GitHub Stats"
     />
@@ -108,7 +108,7 @@
 
   <a href="https://github.com/hemrajmeena073">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemrajmeena073&layout=compact&theme=tokyonight&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemrajmeena073&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600"
       height="180"
       alt="Hemraj Meena Top Languages"
     />
@@ -235,6 +235,31 @@ A simple and responsive calculator application.
 
 🔗 **Repository:**
 https://github.com/hemrajmeena073/CALCULATOR
+
+---
+
+### 💰 FinFlow
+
+An AI-powered personal finance management app that helps track expenses and visualize spending using natural conversation. Built with the MERN stack and Google Gemini's function-calling for smart, structured financial insights.
+
+**Technologies:**
+
+* React
+* Vite
+* Tailwind CSS
+* React Router
+* Recharts
+* Axios
+* Lucide React
+* Node.js
+* Express.js
+* MongoDB
+* Mongoose
+* JWT
+* Google Gemini API
+
+🔗 **Repository:**
+https://github.com/hemrajmeena073/FinFlow
 
 ---
 
