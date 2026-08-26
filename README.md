@@ -100,7 +100,7 @@
 <p align="center">
   <a href="https://github.com/hemrajmeena073">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=hemrajmeena073&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600"
+      src="https://github-readme-stats-lemon-delta-33.vercel.app/api?username=hemrajmeena073&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=3600&count_private=true&include_all_commits=true"
       height="180"
       alt="Hemraj Meena GitHub Stats"
     />
@@ -108,7 +108,7 @@
 
   <a href="https://github.com/hemrajmeena073">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemrajmeena073&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600"
+      src="https://github-readme-stats-lemon-delta-33.vercel.app/api/top-langs/?username=hemrajmeena073&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600"
       height="180"
       alt="Hemraj Meena Top Languages"
     />
