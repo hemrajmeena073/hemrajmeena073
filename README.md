@@ -1,7 +1,11 @@
 # 👋 Hi, I'm HEMRAJ MEENA
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=26&duration=3000&color=1565C0&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+JavaScript+%7C+Node.js;DSA+%7C+Problem+Solving;Building+Modern+Web+Apps+🚀" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-1565C0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React%20%7C%20JavaScript%20%7C%20Node.js-1565C0?style=for-the-badge" />
+</p>
+<p align="center">
+  <sub>DSA • Problem Solving • Building Modern Web Apps 🚀</sub>
 </p>
 
 <p align="center">
