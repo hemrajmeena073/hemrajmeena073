@@ -1,7 +1,7 @@
 # 👋 Hi, I'm HEMRAJ MEENA
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=1565C0&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+JavaScript+%7C+Node.js;DSA+%7C+Problem+Solving;Building+Modern+Web+Apps+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?size=26&duration=3000&color=1565C0&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+JavaScript+%7C+Node.js;DSA+%7C+Problem+Solving;Building+Modern+Web+Apps+🚀" />
 </p>
 
 <p align="center">
@@ -100,7 +100,7 @@
 <p align="center">
   <a href="https://github.com/hemrajmeena073">
     <img
-      src="./profile/stats.svg"
+      src="https://github-readme-stats.vercel.app/api?username=hemrajmeena073&show_icons=true&theme=tokyonight&hide_border=true"
       height="180"
       alt="Hemraj Meena GitHub Stats"
     />
@@ -108,7 +108,7 @@
 
   <a href="https://github.com/hemrajmeena073">
     <img
-      src="./profile/top-langs.svg"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemrajmeena073&layout=compact&theme=tokyonight&hide_border=true"
       height="180"
       alt="Hemraj Meena Top Languages"
     />
