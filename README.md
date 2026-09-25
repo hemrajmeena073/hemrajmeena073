@@ -23,7 +23,6 @@
 # 💫 About Me
 
 * 🎓 B.Tech Information Technology @ **NIT Srinagar**
-* 🌱 Currently learning **System Design & Next.js**
 * 💻 Passionate about **Full Stack Development**
 * 📚 Solving **DSA Problems** regularly
 * 🚀 Building scalable **MERN applications**
@@ -275,7 +274,6 @@ https://github.com/hemrajmeena073/FinFlow
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/System%20Design-1565C0?style=for-the-badge" />
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 
@@ -290,7 +288,6 @@ https://github.com/hemrajmeena073/FinFlow
 # 🎯 2026 Goals
 
 * 🚀 Build scalable full-stack applications
-* 🧠 Improve System Design skills
 * ⚡ Master Next.js
 * 📚 Solve more DSA problems
 * 🤝 Contribute to Open Source
